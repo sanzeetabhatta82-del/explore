@@ -84,7 +84,7 @@ The [pull request template](./.github/PULL_REQUEST_TEMPLATE.md) also provides gu
 
 **Please fill out the pull request template completely,** if you do not fill out the template, your PR will be closed.
 
-## Curating a new topic or collection
+## asc a new topic or collection
 
 If a topic or collection is not yet curated, it will NOT be listed in its respective directory.
 
